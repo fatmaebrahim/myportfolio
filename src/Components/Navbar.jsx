@@ -9,8 +9,8 @@ const Navbar = () => {
   const [nav,setnav]=useState(false)
   const handler=()=> setnav(!nav)
   return (
-    <div className='w-full fixed items-center bg-[#1E2233] z-10 flex flex-row justify-between h-[90px]'>
-      <img className='h-[90px] mt-4' src={logo} alt="" />
+    <div className='w-full fixed items-center bg-[#1E2233] z-10 flex flex-row justify-between h-[100px]'>
+      <img className='h-[80px] mt-4' src={logo} alt="" />
       <ul className=' hidden md:flex'>
       
         <li className='text-lg  ' >
