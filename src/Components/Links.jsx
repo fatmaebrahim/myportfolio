@@ -4,7 +4,7 @@ import {HiOutlineMail} from 'react-icons/hi'
 import{BsFillPersonLinesFill} from 'react-icons/bs'
 const Links = () => {
   return (
-    <div className=' w-full items-center bg-[#1E2233] h-[70px] py-4 '>
+    <div className=' w-full items-center bg-[#1E2233] h-[102px] py-4 '>
        
       <ul className='flex flex-row justify-around w-full  my-4  '>
         <li className='w-[100px] h-[70px] flex justify-between items-start  duration-500 bg-blue-900 rounded-lg'>
