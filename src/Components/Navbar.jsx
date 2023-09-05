@@ -10,7 +10,7 @@ const Navbar = () => {
   const handler=()=> setnav(!nav)
   return (
     <div className='w-full fixed items-center bg-[#1E2233] z-10 flex flex-row justify-between h-[100px]'>
-      <img className='h-[80px] mt-4' src={logo} alt="" />
+      <img className='h-[80px] mt-2' src={logo} alt="" />
       <ul className=' hidden md:flex'>
       
         <li className='text-lg  ' >
