@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base{
+    li{
+      @apply px-4;
+      @apply cursor-pointer;
+      @apply hover:text-2xl  hover:text-[#BB2525] duration-500
+      
+    }
+    body{
+        /* @apply bg-[#1E2233]; */
+        @apply text-[#FFF5E0]
+    }
+   
+  }
+  .con {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220px;
+  }
+
+  .con:hover {
+    background-image: linear-gradient(to right ,rgba(255, 105, 105,0.8), rgb(187, 37, 37));
+  }
