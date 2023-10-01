@@ -8,9 +8,9 @@ import js from '../assets/javascript.png'
 
 const Skills = () => {
   return (
-    <div name='skills' className='h-screen w-full bg-[#1E2233] flex flex-col justify-center items-center '>
+    <div name='skills' className='  h-screen w-full bg-[#1E2233] flex flex-col justify-center items-center '>
         <h1 className='text-4xl text-center font-semibold text-[#FF6969] py-4'>There are the tools I've worked with</h1>
-        <div className='grid  grid-cols-2 md:grid-cols-3 gap-4 '>
+        <div className='scale-75 md:scale-100 grid  grid-cols-2 md:grid-cols-3 gap-4 '>
 
         {/* <div className='md:w-[700px] flex flex-row flex-wrap justify-center items-center py-4 scale-75 md:scale-100'> */}
             <div className=' w-[150px] m-4 shadow-lg shadow-black rounded-lg text-center text-xl font-semibold hover:scale-110 duration-500'> <img className='w-[200px]' src={html} alt="html" />        HTML   </div>

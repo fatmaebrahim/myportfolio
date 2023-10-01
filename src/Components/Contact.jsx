@@ -44,7 +44,7 @@ const Contact = () => {
   return (
     <div name='contact' className='h-[screen] w-full bg-[#1E2233]  flex justify-center items-center'>
      
-      <form onSubmit={onSubmit} action="" className='text-[#1E2233] max-w-[600px] mx-4 flex flex-col w-full justify-center items-center '>
+      <form onSubmit={onSubmit} action="" className='text-[#1E2233] max-w-[600px] mx-4 my-7 flex flex-col w-full justify-center items-center '>
         <div>
         <p className=' mt-[200px] text-[#FF6969] text-4xl text-center  font-semibold'>Contact Me</p>
         <p className='text-xl text-center text-[#FFF5E0] py-2'>You can send me an email or a message via this form</p>
