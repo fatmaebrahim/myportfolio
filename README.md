@@ -4,14 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Running the App
 
-To deploy the app, run:
+To start the app, run:
 
 ```bash
 npm run start
 ```
 
 Runs the app in development mode.  
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Deploying the App
 
