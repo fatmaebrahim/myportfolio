@@ -26,7 +26,7 @@ const Links = () => {
           </a>
         </li>
         <li className='w-[100px] h-[70px] flex justify-between items-start  duration-500 bg-[#8FABB8] rounded-lg'>
-          <a className='flex flex-col justify-between items-center w-full text-white' href="https://drive.google.com/file/d/1AsVYYIOUJjumelK-CkIu841QAB8voOsR/view?usp=sharing" target='blank'>
+          <a className='flex flex-col justify-between items-center w-full text-white' href="https://drive.google.com/file/d/1tLZ_IDPverfE2LYrdmAtM8_xH-A13kFk/view?usp=sharing" target='blank'>
           <BsFillPersonLinesFill size={35} color='white'/>
           Resume 
           </a>
